@@ -5,15 +5,15 @@ First of all, we need to run our server,
 
 # Run Server
 ..chatbot\server on this directory,
-npm install
-npm start
+- npm install
+- npm start
 
 After than,
 
 # Run Client creator
 ..chatbot\client on this directory,
-npm install
-npm start
+- npm install
+- npm start
 
 and clients will be created and ring process will start.
 
